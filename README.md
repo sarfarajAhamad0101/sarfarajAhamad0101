@@ -1,4 +1,4 @@
-![logo](https://github.com/sarfarajAhamad0101/sarfarajAhamad0101/blob/main/Banner.png)
+![logo](https://github.com/sarfarajAhamad0101/sarfarajAhamad0101/blob/main/NewBanner.png)
 
 <h1 align="center">Hi 👋, I'm SARFARAJ AHAMAD</h1>
 <h3 align="center">🌱 On a mission to become a better developer every day</h3>
